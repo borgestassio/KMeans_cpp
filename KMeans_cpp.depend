@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650835842 source:c:\users\avell 1513\cpp_projects\kmeans_cpp\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"kmeans.h"
+
+1650835976 c:\users\avell 1513\cpp_projects\kmeans_cpp\kmeans.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
